@@ -21,16 +21,15 @@ Patients often face challenges such as long queues, poor scheduling, and a lack 
 - Responsive UI for all devices
 
 ## 📁 Folder Structure
-```
 docspot-appointment-booking/
-├── client/          # React frontend
-├── server/          # Node.js backend
-├── documentation/   # SmartInternz docs
-├── screenshots/     # App UI images
+├── client/ # React frontend
+├── server/ # Node.js backend
+├── documentation/ # SmartInternz docs
+├── screenshots/ # App UI images
 ├── README.md
 ├── .gitignore
 └── package.json
-```
+
 
 ## 🧑‍💻 Team Members
 - Bethina Sowmya Sri Durga — Full Stack Developer
@@ -40,4 +39,6 @@ docspot-appointment-booking/
 - Abstract: `/documentation/Project_Abstract.docx`
 - Final Report: `/documentation/Report.docx`
 
+## 🌐 Live Demo
+https://vercel.com/bethina-sowmya-sri-durgas-projects/doc-spot/GXHyeU1xQy769cQDGdNCp6sLhs2d
 **This project is submitted for the SmartInternz internship program.**
