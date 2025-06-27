@@ -33,7 +33,7 @@ docspot-appointment-booking/
 ```
 
 ## 🧑‍💻 Team Members
-- Sowmya Bethina Sri Durga — Full Stack Developer
+- Bethina Sowmya Sri Durga — Full Stack Developer
 
 ## 📄 Documentation
 - Problem Statement: `/documentation/Problem_Statement.docx`
